@@ -12,7 +12,7 @@ high_score = 0
 
 # Set up screen
 wn = turtle.Screen()
-wn.title("Snake Game")
+wn.title("Snake Game - Tutorial by TokyoEdTech")
 wn.bgcolor("green")
 wn.setup(width=600, height=600)
 wn.tracer(0)
